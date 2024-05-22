@@ -1,0 +1,30 @@
+---
+title: "Simple Shiny App Pitch"
+author: "may4026"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Slide 1: Introduction
+
+This presentation introduces a simple Shiny application.
+
+## Slide 2: Application Functionality
+
+The app allows users to input text and displays it back.
+
+## Slide 3: User Interface
+
+The UI is simple with a text box and a submit button.
+
+## Slide 4: Server Logic
+
+The server takes the input and renders it as text output.
+
+## Slide 5: Try it Out!
+https://shm-coursera-project.shinyapps.io/courseraproject/
